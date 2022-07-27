@@ -1,0 +1,114 @@
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.hero {
+    text-align: center;
+    padding: 100px 0 100px 0;
+}
+
+.hero h3 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+
+.hero h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    padding-top: 50px;
+    font-size: 60px;
+    font-weight: bord;
+}
+
+.hero h1 span {
+    font-family: inherit;
+    color:#017cff;
+}
+
+.hero h2 {
+    font-family: inherit;
+    font-size: 50px;
+    font-weight: bold;
+    color: #017cff;
+}
+
+.hero h2 span {
+    color: rgb(255, 255, 255);
+}
+
+.hero p {
+    font-family: inherit;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    line-height: 30px;
+    margin-top: 60px;
+    padding: 0 200px;
+}
+
+
+
+@media all and (max-width: 768px) {
+    .hero p {
+        font-size: 20px;
+        margin-top: 60px;
+        padding: 0;
+    }
+
+}
+
+.hero_btn {
+    margin-top: 5%;
+    justify-content: center;
+}
+
+.hero_btn button {
+    margin-right: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.hero_btn i {
+    font-size: 20px;
+}
+
+.w-100 {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    filter: brightness(70%);
+}
+
+.bg-light {
+    width: 500px;
+    margin: 70px 0 50px 0;
+}
+
+.btn-primary {
+    margin: 10px 0 10px 0;
+}
+
+.login-google > h6 {
+    padding-bottom: 20px;
+}
+
+.text-wrapper h1 {
+    font-size: 70px;
+    font-weight: 100;
+}
+.login-with-google-btn {
+    margin-bottom: 40px;
+}
+
+.wrapper-userInfo {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px 0;
+}
+
+.img-userInfo {
+    width: 70px;
+}
