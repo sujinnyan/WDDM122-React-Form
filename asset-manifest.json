@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WDDM122-React-Form/static/css/main.78453c9b.css",
+    "main.js": "/WDDM122-React-Form/static/js/main.2c88bc92.js",
+    "index.html": "/WDDM122-React-Form/index.html",
+    "main.78453c9b.css.map": "/WDDM122-React-Form/static/css/main.78453c9b.css.map",
+    "main.2c88bc92.js.map": "/WDDM122-React-Form/static/js/main.2c88bc92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78453c9b.css",
+    "static/js/main.2c88bc92.js"
+  ]
+}
