@@ -1,9 +1,5 @@
 import React from "react"
 import "./Home.css"
-import icon1 from "../img/design1.jpeg"
-import icon2 from "../img/design2.jpeg"
-import icon3 from "../img/design3.jpeg"
-
 import { Typewriter } from 'react-simple-typewriter'
 
 
