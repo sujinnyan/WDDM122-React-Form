@@ -63,7 +63,7 @@ body {
     justify-content: center;
 }
 
-.hero_btn button {
+.hero_btn button:first-child, .hero_btn button:nth-child(2) {
     margin-right: 30px;
     margin-top: 10px;
     margin-bottom: 10px;

@@ -47,7 +47,7 @@ const Signup = () => {
 
     return (
       
-            <div className="d-flex align-items-center justify-content-center mt-5 h-100">
+            <div className="d-flex align-items-center justify-content-center h-100">
 
   <form className="bg-light p-5 rounded" onSubmit={onSubmitHandler}>
       <h2 className="p-3 mt-2 text-dark text-center ">Sign Up</h2>
