@@ -1,6 +1,8 @@
 import React from "react"
 import "./Home.css"
 
+import { Typewriter } from 'react-simple-typewriter'
+
 
 const Home = () => {
     return (
